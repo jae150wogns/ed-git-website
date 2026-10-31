@@ -13,3 +13,7 @@ Website of **Green Bikes**, a bike rental shop.
 2. Open `index.html` in your browser.
 
 Online version: <https://github.com/jae150wogns/ed-git-website.git>
+
+## Live Website
+
+Your site is live at https://jae150wogns.github.io/ed-git-website/
